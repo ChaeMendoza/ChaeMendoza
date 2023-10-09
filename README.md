@@ -1,13 +1,20 @@
-<h1 align="center">Hello world! 👋</h1>
+# ¡Hola, soy Israel Mendoza! 👋
 
-<p align='center'>
-    <img src="./img/image.png" alt="img not found"/>
-</p>
+Soy un apasionado Full Stack Web Developer con experiencia en la creación de aplicaciones web emocionantes y funcionales. Mi enfoque principal es la construcción de soluciones web robustas y escalables utilizando una variedad de tecnologías.
 
+## Stack Tecnológico
 
-<h3 align="center">
-I am a passionate programmer who loves creating innovative web and mobile applications 🚀. <br /> I have experience in developing web applications using modern technologies 👽. <br /> Throughout my career, I have worked on personal, individual, and group projects in Henry Bootcamp where I contributed to the creation of innovative solutions that improve efficiency and user experience 🤩. <br /> I am proud to have participated in the individual and final projects <br /> that have been implemented in production. I love programming because it allows me to create solutions that solve real problems and make people's lives easier 🥰.
-</h3>
+- **Frontend:** HTML, CSS, React.js, JavaScript
+- **Backend:** Node.js, PostgreSQL
+- **En constante aprendizaje:** Python (para gestionar Odoo Enterprise)
+  
+## Proyecto Actual
 
+Actualmente, me encuentro trabajando en la integración y personalización de **Odoo Enterprise**. Estoy comprometido en ayudar a las empresas a optimizar sus procesos empresariales a través de esta plataforma.
 
+## Contacto
 
+¡Me encantaría conectarme contigo para discutir proyectos emocionantes y colaboraciones interesantes! No dudes en contactarme a través de israel656mendoza@gmail.com o [Linkedin](https://www.linkedin.com/in/israel-mendoza-a939a61b1/) para conversar sobre posibles oportunidades de trabajo o proyectos de código abierto.
+
+¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
+ 
