@@ -1,20 +1,22 @@
-# ¡Hola, soy Israel Mendoza! 👋
+## ¡Hola, soy Israel Mendoza! 👋
+Soy un **Desarrollador Web Full Stack** apasionado por crear soluciones tecnológicas eficientes y escalables. Con experiencia en proyectos frontend y backend, disfruto transformar ideas en aplicaciones funcionales y amigables para el usuario.
 
-Soy un apasionado Full Stack Web Developer con experiencia en la creación de aplicaciones web emocionantes y funcionales. Mi enfoque principal es la construcción de soluciones web robustas y escalables utilizando una variedad de tecnologías.
-
-## Stack Tecnológico
-
-- **Frontend:** HTML, CSS, React.js, JavaScript
-- **Backend:** Node.js, PostgreSQL
-- **En constante aprendizaje:** Python (para gestionar Odoo Enterprise)
+### 🛠️ Stack Tecnológico
+- **Frontend:** React.js, Vite.js, Tailwind CSS, HTML, CSS, JavaScript
+- **Backend:** Django, Node.js, PostgreSQL, APIs RESTful
+- **Extras:** Docker, Firebase, Git, Linux
+- *Descubre más en mi <a href="https://portafolio-de-isra.web.app/" target="_blank">👉 Portafolio 👈</a>*
   
-## Proyecto Actual
+### 🚀 Proyectos Destacados
+- **Aplicación de Gestión de Tiempo:** Proyecto personal diseñado con **React**, **Firebase** y **Tailwind CSS**, que ayuda a los usuarios a gestionar sus tareas y optimizar la productividad.
+- **Transparencia Nacional:** Mantenimiento y mejoras para un sistema web que maneja datos públicos usando React, Docker y PostgreSQL.
 
-Actualmente, me encuentro trabajando en la integración y personalización de **Odoo Enterprise**. Estoy comprometido en ayudar a las empresas a optimizar sus procesos empresariales a través de esta plataforma.
+### 📚 En constante aprendizaje
+Me esfuerzo continuamente por mejorar mis habilidades, actualmente explorando nuevas herramientas y tecnologías para llevar mis proyectos al siguiente nivel.
 
-## Contacto
+### 🌍 Ubicación y Contacto
+- **📍 Quito, Ecuador**
+- **📧 israel656mendoza@gmail.com**
+- **<a href="https://portafolio-de-isra.web.app/" target="_blank">🌐 Portafolio Web</a>**
 
-¡Me encantaría conectarme contigo para discutir proyectos emocionantes y colaboraciones interesantes! No dudes en contactarme a través de israel656mendoza@gmail.com o [Linkedin](https://www.linkedin.com/in/israel-mendoza-a939a61b1/) para conversar sobre posibles oportunidades de trabajo o proyectos de código abierto.
-
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
- 
+¡Me encantaría conectar contigo para explorar oportunidades emocionantes o colaborar en proyectos interesantes! 😊
